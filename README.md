@@ -5,6 +5,7 @@ There are 1 controller and 2 repositories: EmployeeController, EmployeeRepositor
 StateLog is used for logging stage changes of employees</br>
 There is one-to-many relation between Employee and StateLog</br>
 Project uses Spring Boot, H2 as database </br>
+Project JDK is Amazon corretto-11 </br>
 
 <h2>Business Rules</h2>
 - Employee can be created with required fields : first name, last name, email, passport number </br>
