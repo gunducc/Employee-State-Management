@@ -25,7 +25,7 @@ Project JDK is Amazon corretto-11 </br>
 - Employee state can't be changed after ACTIVE state </br>
 - All state changes are automatically logged to EMPLOYEE_STATE_LOG table in db </br>
 - All employees can be queried by GetAllEmployees GET method with a paginated response </br>
-- Employee state change logs can be queries by stateLogs GET method
+- Employee state change logs can be queried by stateLogs GET method
 
 <h2>Properties</h2>
 - Application is secured. Default credentials for application and H2 db are: </br>
